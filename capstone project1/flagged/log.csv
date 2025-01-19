@@ -1,0 +1,4 @@
+data,output 0,output 1,flag,username,timestamp
+"{""headers"": [""Date"", ""gdp yoy""], ""data"": [[""2020-01-01"", 100], [""2020-02-01"", 105], [""2020-03-01"", 110]], ""metadata"": null}",,,,,2024-07-14 20:25:58.472163
+"{""headers"": [""Date"", ""gdp yoy""], ""data"": [[""2020-01-01"", -1.1], [""2020-02-01"", 0.1], [""2020-03-01"", 0.1]], ""metadata"": null}",,,,,,,,2024-07-15 21:28:53.222533
+"{""headers"": [""Date"", ""gdp yoy""], ""data"": [[""2020-01-01"", -1.1], [""2020-02-01"", 0.1], [""2020-03-01"", 0.1]], ""metadata"": null}","{""ADF Test"": null, ""Best ARIMA Model"": null, ""Mean Squared Error"": null, ""Root Mean Squared Error"": null, ""Forecast"": null, ""Confidence Interval"": null, ""Results Summary"": null}",flagged\output 1\faddc2207f875f51e03a\original_plot.png,,,,,,2024-07-17 22:19:50.001364
