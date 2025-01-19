@@ -1,1 +1,3 @@
-# economic-data-life-after-covid-_Time_Series_Model
+This dataset offers a comprehensive insight into the economic trajectories of nine major economies from the onset of the COVID-19 pandemic through the beginning of 2024. It encompasses crucial economic indicators and financial market data, covering aspects such as manufacturing and services performance, consumer sentiment, monetary policies, inflation rates, unemployment rates, and overall economic output. Additionally, it includes price data for each economy, with values compared against the dollar for clarity. With data spanning this period, the dataset provides valuable insights for analysts, researchers, and stakeholders into the impact of the pandemic and other significant events on these economies, facilitating an assessment of their resilience, challenges, and opportunities.
+
+Countries included : Australia / Canada / China / Europe / Japan / New Zealand / Switzerland / United Kingdom / United States
